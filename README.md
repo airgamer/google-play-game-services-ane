@@ -16,9 +16,9 @@ Features :
 - Admob (Banner and Interstitial)
 
 
-Reqirement:
-air sdk 17 or later
-[Google Play Services Lib ANE](https://github.com/airgamer/google-play-service-ane)
+Reqirement:  
+air sdk 17 or later  
+[Google Play Services Lib ANE](https://github.com/airgamer/google-play-service-ane)  
 
 ### Start Up
 
@@ -68,7 +68,7 @@ For more fun Check out the example folder to see how to use.
 
 ### extensionID
 ```
-<extensionID>com.grumpycarrot.ane.playgameservices</extensionID>
+<extensionID>com.airgamer.ane.playgameservices</extensionID>
 ```
 ------------------------------------------------
-[Google Play game services ane](https://github.com/airgamer)
+Project Home [Google Play game services ane](https://github.com/airgamer)
